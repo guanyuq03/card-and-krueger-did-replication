@@ -61,15 +61,17 @@ This extension provides a more detailed understanding of how different types of 
 ---
 
 ## Repository Structure
+```
 ├── README.md
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 ├── notebooks/
-│ ├── 01_Data_Cleaning.ipynb
-│ ├── 02_Replication_Analysis.ipynb
-│ └── 03_Extension_and_Results.ipynb
+│   ├── 01_Data_Cleaning.ipynb
+│   ├── 02_Replication_Analysis.ipynb
+│   └── 03_Extension_and_Results.ipynb
 └── requirements.txt
+```
 
 ---
 
